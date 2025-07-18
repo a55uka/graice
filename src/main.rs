@@ -1,6 +1,6 @@
 use std::fs::File;
 use std::{env, io, process};
-use std::io::{Read, Write};
+use std::io::Read;
 use std::path::Path;
 use graice::emulator::{EmulatorConfig, N64Emulator};
 use graice::rom::RomLoader;
