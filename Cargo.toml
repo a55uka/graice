@@ -1,0 +1,9 @@
+[package]
+name = "graice"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+scroll = "0.13"
+scroll_derive = "0.13"
+unicorn-engine = "2.1"
